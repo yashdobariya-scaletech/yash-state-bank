@@ -3,9 +3,9 @@ import React from "react";
 export default function Shop() {
   return (
     <div>
-      <h3>I Phone 13</h3>
+      <h3>Deposit/Withdraw Money</h3>
       <button className="btn btn-primary mx-2">-</button>
-      Add to Cart
+      Update Balance
       <button className="btn btn-primary mx-2">+</button>
     </div>
   );
